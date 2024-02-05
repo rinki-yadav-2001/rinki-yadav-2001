@@ -1,8 +1,8 @@
 
 Hi there 👋, I'm Rinki Yadav!
-Have exposure♛ to building professional websites🖥 and front-end applications 💻. Experienced with a demonstrated history of working in the information technology and services industries🏢 . Skilled in FrontEnd Technologies✍️ as React.js, Redux, EcmaScript, JavaScript, HTML, CSS, Bootstrap, Flexbox, .GitHub, Net, SQL, and C# for web and window-based applications.
+Have exposure♛ to building professional websites🖥 and front-end applications 💻. Experienced with a demonstrated history of working in the information technology and services industries🏢 . Skilled in FrontEnd Technologies✍️ as React.js, Redux, EcmaScript, JavaScript, HTML, CSS, Bootstrap, Flexbox, .GitHub for web and window-based applications.
 
-Apart from my professional journey, I am a learner📝 and enthusiastic to learn new tech. I have created 15+ mini & major projects💼 on Reactjs and other technologies. Also deployed and having live-hosted projects📽, checkout out my GitHub pages📒 or YouTube📲 channel for more details.
+Apart from my professional journey, I am a learner📝 and enthusiastic to learn new tech. I have created 15+ mini & major projects💼 on Reactjs and other technologies. 📽.
 
 Responsibilities- Developing new user-facing features using React.js Building reusable components and front-end libraries for future use Translating designs into high quality code Optimizing components for maximum performance Optimizing performance of the application. Troubleshooting the bugs
 
